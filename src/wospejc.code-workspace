@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "jebem sa",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"functional": "cpp",
+			"string": "cpp"
+		}
+	}
+}
